@@ -119,7 +119,8 @@ technical_test/
 This structure promotes separation of concerns and makes the codebase easier to scale and maintain, adhering to clean architecture principles.
 ## Live Preview
 You can try out the app using the live preview link below:
-[Live Preview URL](https://tech.bakrhw.com)
+[Live Preview URL](https://www.tech.bakrhw.com)
+> **Note**: For the best experience, it is recommended to view the live preview on a PC or laptop.
 
 ## Download and Install the APK
 
