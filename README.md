@@ -1,5 +1,5 @@
 
-# Project Name
+# Smart University
 
 ## Table of Contents
 1. [Overview](#overview)
