@@ -127,7 +127,7 @@ To install the app on your Android device, you can download the pre-built APK fi
 
 1. **Download the APK**:
    - Click the link below to download the APK file:
-     [Download APK](https://github.com/bakrabdulrahmanhawarieng/technical_test/smart_university.apk)
+     [Download APK](https://github.com/bakrabdulrahmanhawarieng/technical_test/blob/main/smart_university.apk)
 
 2. **Install the APK**:
    - Once the APK is downloaded, open it on your Android device.
